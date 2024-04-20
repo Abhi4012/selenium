@@ -1,0 +1,4 @@
+selenium
+# pip install -U selenium
+webdriver_manager
+webdriver-manager
